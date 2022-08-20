@@ -5,18 +5,16 @@ repo: uptime # The name of this repository
 sites:
   - name: bortox.it
     url: https://bortox.it/
-  - name: Matomo Analytics (self-hosted)
+  - name: Matomo Analytics
     url: https://stats.bortox.it/
-  - name: GoatCounter Analytics (hosted)
+  - name: GoatCounter Analytics
     url: https://goatcounter.com/
-  - name: tldr.bortox.it
-    url: https://tldr.bortox.it
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: uptime.bortox.it
-  baseUrl: /uptime
+  cname: uptime.bortox.it
+  #baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status di bortox.it
   theme: ocean
@@ -25,10 +23,14 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Blog
+    - title: 👨‍💻
       href: https://bortox.it/article
-    - title: bortox
+    - title: 🏠
       href: https://bortox.it/
+    - title: 📝
+      href: https://bortox.it/Compiti-scolastici/
+    - title: 📷
+      href: https://bortox.it/galleria
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
