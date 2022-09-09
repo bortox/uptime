@@ -4,19 +4,19 @@
     "url": "https://bortox.it/",
     "icon": "https://favicons.githubusercontent.com/bortox.it",
     "slug": "bortox-it",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "92.86%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 558,
-    "timeDay": 358,
-    "timeWeek": 484,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 546,
+    "timeDay": 334,
+    "timeWeek": 461,
+    "timeMonth": 546,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2022-09-09": 102
+      "2022-09-09": 110
     }
   },
   {
