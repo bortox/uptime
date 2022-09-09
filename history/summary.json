@@ -5,38 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/bortox.it",
     "slug": "bortox-it",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 591,
-    "timeDay": 445,
-    "timeWeek": 555,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "uptime": "99.66%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 579,
+    "timeDay": 404,
+    "timeWeek": 528,
+    "timeMonth": 579,
+    "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-09-09": 81
-    }
-  },
-  {
-    "name": "Matomo Analytics",
-    "url": "https://stats.bortox.it/",
-    "icon": "https://favicons.githubusercontent.com/stats.bortox.it",
-    "slug": "matomo-analytics",
-    "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "84.50%",
-    "uptimeWeek": "97.79%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
-    "time": 924,
-    "timeDay": 998,
-    "timeWeek": 951,
-    "timeMonth": 924,
-    "timeYear": 924,
-    "dailyMinutesDown": {
-      "2022-09-09": 223
+      "2022-09-09": 98
     }
   },
   {
@@ -50,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 792,
-    "timeDay": 985,
-    "timeWeek": 791,
-    "timeMonth": 792,
-    "timeYear": 792,
+    "time": 788,
+    "timeDay": 838,
+    "timeWeek": 779,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   }
 ]
