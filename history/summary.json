@@ -4,9 +4,9 @@
     "url": "https://bortox.it/",
     "icon": "https://favicons.githubusercontent.com/bortox.it",
     "slug": "bortox-it",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 623,
     "timeMonth": 614,
     "timeYear": 614,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   },
   {
     "name": "Matomo Analytics",
     "url": "https://stats.bortox.it/",
     "icon": "https://favicons.githubusercontent.com/stats.bortox.it",
     "slug": "matomo-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 951,
     "timeMonth": 924,
     "timeYear": 924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   },
   {
     "name": "GoatCounter Analytics",
