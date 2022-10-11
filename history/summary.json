@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bortox.it.ico",
     "slug": "bortox-it",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.43%",
     "uptimeMonth": "97.30%",
-    "uptimeYear": "98.27%",
+    "uptimeYear": "98.28%",
     "time": 389,
     "timeDay": 228,
     "timeWeek": 321,
@@ -28,9 +28,9 @@
     "url": "https://goatcounter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/goatcounter.com.ico",
     "slug": "goat-counter-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,6 +39,8 @@
     "timeWeek": 937,
     "timeMonth": 838,
     "timeYear": 824,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-11": 0
+    }
   }
 ]
