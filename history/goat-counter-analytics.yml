@@ -1,7 +1,7 @@
 url: https://goatcounter.com/
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2023-12-04T23:12:28.760Z
+status: down
+code: 503
+responseTime: 273
+lastUpdated: 2023-12-05T16:57:41.463Z
 startTime: 2022-08-20T14:15:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
