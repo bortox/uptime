@@ -24,16 +24,16 @@
     "url": "https://goatcounter.com/",
     "icon": "https://icons.duckduckgo.com/ip3/goatcounter.com.ico",
     "slug": "goat-counter-analytics",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.59%",
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "86.53%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.20%",
+    "uptimeYear": "99.56%",
     "time": 1092,
-    "timeDay": 757,
-    "timeWeek": 987,
-    "timeMonth": 976,
+    "timeDay": 941,
+    "timeWeek": 1004,
+    "timeMonth": 981,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2025-06-22": 58,
@@ -46,7 +46,7 @@
       "2026-05-06": 221,
       "2026-05-07": 541,
       "2026-06-10": 155,
-      "2026-06-18": 0
+      "2026-06-18": 194
     }
   }
 ]
