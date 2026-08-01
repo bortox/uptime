@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 892,
-    "timeWeek": 694,
-    "timeMonth": 767,
-    "timeYear": 873,
-    "dailyMinutesDown": {
-      "2025-08-01": 20
-    }
+    "time": 750,
+    "timeDay": 1185,
+    "timeWeek": 735,
+    "timeMonth": 774,
+    "timeYear": 876,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GoatCounter Analytics",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 1040,
-    "timeDay": 1195,
+    "timeDay": 1276,
     "timeWeek": 963,
     "timeMonth": 1041,
-    "timeYear": 1027,
+    "timeYear": 1028,
     "dailyMinutesDown": {
       "2025-08-10": 70,
       "2025-10-31": 170,
